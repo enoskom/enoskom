@@ -31,7 +31,7 @@
 
 <h3 align="left">My Credly 🏅</h3>
 <p align="left">
-    <a href="https://www.credly.com/badges/enoskom" target="blank">
+    <a href="https://www.credly.com/badges/users/enoskom" target="blank">
         <img align="center" src="https://img.icons8.com/?size=100&id=imamZukNSZr3&format=png&color=000000" alt="Credly Certificate" height="50" />
     </a>
 </p>
